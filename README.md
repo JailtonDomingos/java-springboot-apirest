@@ -14,4 +14,4 @@ Pontos de desenvolvimento:
     Armazenamento de imagens com Amazon S3
     Implantação do backend no Heroku
 
-    .
+    
