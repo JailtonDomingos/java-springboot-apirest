@@ -13,3 +13,5 @@ Pontos de desenvolvimento:
     Envio de emails
     Armazenamento de imagens com Amazon S3
     Implantação do backend no Heroku
+
+    .
