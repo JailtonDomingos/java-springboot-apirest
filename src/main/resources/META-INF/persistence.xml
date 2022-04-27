@@ -17,9 +17,7 @@
             <property name="javax.persistence.jdbc.password" value="" />
 
             <property name="hibernate.hbm2ddl.auto" value="update" />
-            
-            <!--<property name="hibernate.connection.provider_class" value="org.hibernate.connection.C3P0ConnectionProvider"/> -->
-            
+                    
             <!-- https://docs.jboss.org/hibernate/orm/5.4/javadocs/org/hibernate/dialect/package-summary.html -->
             <property name="hibernate.dialect" value="org.hibernate.dialect.MySQL8Dialect" /> 
         </properties>
